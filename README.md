@@ -1,4 +1,4 @@
-# Guerrilla Portfolio – Gonçalo Passinhas
+# Portfolio – Gonçalo Passinhas
 
 This repository contains selected university projects from my Master’s in Data Science and Marketing Analytics at Erasmus School of Economics. They illustrate my experience with coding, data preparation, statistical modelling and behaviour-based segmentation, and my ability to turn raw data into clear, actionable insights.
 
